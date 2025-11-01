@@ -1,7 +1,7 @@
 # Aerospace Engineer | Data Analysis & Sustainable Aviation
 
 **Graduate Engineer @ Jetstar Airways**  
-Building technical expertise in data-driven engineering with a focus on sustainable aviation technologies.
+Building technical expertise in data-driven engineering.
 
 ## About Me
 Aeronautical engineer working on operational data modelling and forecasting at Jetstar Airways. I combine aerospace engineering fundamentals with Python-based data analysis to support operational decision-making.
