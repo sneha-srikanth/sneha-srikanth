@@ -1,63 +1,64 @@
-# Engineer | Data Analysis & Aviation
+# Sneha Srikanth | Aviation Engineer
 
 **Graduate Engineer @ Jetstar Airways**  
-Building technical expertise in data-driven engineering. Passionate about making aviation more sustainable. 
+Aeronautical engineer interested in the technical challenges of making aviation more sustainable.
 
-## About Me
-Aeronautical engineer working on operational data modelling and forecasting at Jetstar Airways. I combine aerospace engineering fundamentals with Python-based data analysis to support operational decision-making.
+## What I'm Exploring
 
-Outside of work, I'm developing knowledge in sustainable aviation fuels and clean energy systems through self-directed learning and formal coursework.
+I'm curious about the engineering problems involved in decarbonising aviation - hydrogen propulsion, sustainable aviation fuels, and the systems integration challenges that come with fundamentally different energy sources.
 
-## Technical Skills
-**Current Capabilities:**
-- Python (pandas, numpy, matplotlib, data analysis)
-- Data modelling and forecasting
-- Excel for engineering analysis
-- Aerospace systems engineering
+This GitHub is where I work through these problems, building tools and models to better understand the trade-offs and constraints.
 
-**Areas of Interest:**
-- Sustainable aviation fuels and alternative propulsion
-- Lifecycle assessment and techno-economic analysis
-- Aviation data science and optimisation
-- Clean energy systems
-
-## Education & Learning
-- **BEng** Aeronautical Engineering & Physics
-  - *Thesis:* Hydrogen Fuel Cell Degradation for Dynamic Vehicle Applications
-- **Graduate Diploma** in Clean Energy (Commencing May 2026)
-- **Online Learning:** Life Cycle Assessment, Python for Data Analysis
-
-## Projects
-*Projects will be added here as they're completed*
-
-Currently working on:
-- Python-based data analysis exercises
-- Building knowledge in SAF production pathways and assessment methodologies
+**Areas of focus:**
+- Aircraft performance modelling for alternative propulsion systems
+- Python-based analysis tools for aviation sustainability
+- Hydrogen storage, propulsion integration, and certification pathways
 
 ## Background
-- Graduate Engineer at Jetstar Airways (2024-present)
-  - Rotation 1: Engineering Cost, Efficiency and Analytics
-  - Rotation 2: Engineering Networks and Strategic Planning
-- Previous experience as an undegraduate engineer at an electric VTOL startup
-- Strong foundation in aerospace engineering, physics, and quantitative analysis
-- Research experience in hydrogen fuel cell technology and degradation mechanisms
+
+**Education:**
+- BEng Aeronautical Engineering & Physics (Double Degree)
+  - Thesis: Hydrogen Fuel Cell Degradation for Dynamic Vehicle Applications
+
+**Experience:**
+- Graduate Engineer, Jetstar Airways (2024-present)
+  - Engineering Cost, Efficiency & Analytics
+  - Engineering Networks & Strategic Planning
+- Undergraduate Engineer at electric VTOL startup
+- Research experience in hydrogen fuel cell degradation mechanisms
+
+**Technical toolkit:**
+- Python (pandas, numpy, matplotlib, scipy)
+- Data modelling, forecasting, and analysis
+- Aerospace systems engineering fundamentals
+- Excel for complex engineering calculations
+
+## Projects
+
+*Building as I go. Early projects coming soon.*
+
+**In development:**
+- Hydrogen aircraft performance model (comparing liquid H₂ vs compressed H₂ vs kerosene for range/payload trade-offs)
+- SAF production pathway analysis tools
+
+## Why This Matters
+
+Aviation accounts for roughly 2.5% of global CO₂ emissions, but the technical challenges of decarbonisation are substantial. Battery energy density isn't sufficient for anything beyond short regional flights. Sustainable aviation fuels help but face supply constraints. Hydrogen shows promise but requires rethinking aircraft design, infrastructure, and certification from first principles.
+
+These problems don't get solved through optimism alone. They require engineers doing the maths, building the models, understanding the constraints, and working through the trade-offs methodically.
+
+That's what interests me.
 
 ## Connect
+
+I'm interested in connecting with people working on sustainable aviation, hydrogen propulsion systems, or the technical challenges of aviation decarbonisation.
+
 **LinkedIn:** [linkedin.com/in/snehasrikanth86](https://www.linkedin.com/in/snehasrikanth86/)  
 **Email:** snehasrikanth8601@gmail.com  
 **Location:** Melbourne, Australia
 
 ---
 
-## About This Repository
-This GitHub serves as a portfolio for technical projects I work on in my own time, primarily focused on aviation data analysis and sustainable aviation technologies.
-
-I'm interested in connecting with others working in:
-- Sustainable aviation fuels and decarbonisation
-- Aviation data science and optimisation
-- Aerospace engineering and clean energy
-- Hydrogen fuel cell systems and alternative propulsion
-
----
+*Last updated: December 2025*
 
 *Last updated: November 2025*
